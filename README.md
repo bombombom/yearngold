@@ -12,3 +12,11 @@ plan is that rewarding hodlers through a second token prevents negative price ac
 the main token while still giving hodlers an incentive to stake.
 
 Staking will go live on our website once the YAUS token has launched.
+
+
+What is the purpose of Yearn Gold?
+
+The unique way in which holders will be allowed to stake and collect their
+rewards allows promotion of a more positive, upwards price action on the main token,
+as hodlers are given an incentive to continue hodling, meaning a shorter amount of the
+supply will be circulating as the net position of hodlers remains high
